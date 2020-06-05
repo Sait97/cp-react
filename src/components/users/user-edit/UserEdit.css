@@ -1,0 +1,21 @@
+.user-edit-wrapper {
+    display: flex;
+    height: calc(100vh - 10%);
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.user-edit-form {
+    border: 1px solid gray;
+    width: 500px;
+    padding: 20px;
+    background-color: #e2e2e2;
+    box-shadow: -7px 7px #144ad91a;
+}
+.buttons-spc{
+    justify-content: space-around;
+}
+.form-group label {
+    padding-left: 10px;
+}

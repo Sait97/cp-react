@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "sait",
+      "email": "test@uk",
+      "password": "12345",
+      "age": "2",
+      "errorMessage": "",
+      "isActive": true,
+      "isAdmin": true,
+      "id": "kLVCibC"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "",
+      "content": "",
+      "grade": "",
+      "authorId": "k7W9QBE",
+      "authorName": "admin",
+      "date": "2020-06-04T15:08:39.638Z",
+      "status": "Done",
+      "id": 5
+    },
+    {
+      "title": "2124",
+      "content": "241",
+      "grade": "2",
+      "authorId": "kLVCibC",
+      "date": "2020-06-05T11:32:43.559Z",
+      "status": "Done",
+      "id": 8
+    },
+    {
+      "title": "Monday - Friday",
+      "content": "22",
+      "grade": "2",
+      "authorId": "kLVCibC",
+      "authorUsername": "",
+      "date": "2020-06-05T11:43:03.140Z",
+      "status": "Pending execution",
+      "authorName": "sait",
+      "id": 9
+    }
+  ]
+}
